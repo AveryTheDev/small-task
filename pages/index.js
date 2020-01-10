@@ -57,7 +57,6 @@ const Home = () => (
       width={width}
       m={1}
       p={{ xs: 4, sm: 5, md: 6 }}
-      //need to lighten to make clear that the box shadow is present
       bgcolor="success.main"
     >
       <Box
